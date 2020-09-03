@@ -1,0 +1,5 @@
+For localhost use xampp
+The code is into the tbl_nedrtechs repository with the database and the document with the scope that its finished.
+For see it, install xampp the go to the htdocs put the contect of this code, then when you active the services of xammp once installed
+Go to phpmyadmin and import tbl_nerdtechs_shop.sql for restore the ecommerce.
+The credentials are into the wordpress dev document
